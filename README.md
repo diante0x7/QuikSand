@@ -1,5 +1,5 @@
 # QuikSand
-QuikSand is a social-engineering Python utility for generating malicious qr codes for phishing, geolocation or XXS using PIL, python-requests and PHP. This project was inspired by [The Good, Bad, and Ugly QR code](https://www.uh.edu/infotech/about/presentations/documents/educause2022/qr-code-information.pdf) by Robert Birkline, manager of Web technology at the University of Houston.
+QuikSand is a social-engineering Python utility for generating malicious QR codes for phishing, geolocation or XXS using PIL, python-requests and PHP. This project was inspired by [The Good, Bad, and Ugly QR code](https://www.uh.edu/infotech/about/presentations/documents/educause2022/qr-code-information.pdf) by Robert Birkline, manager of Web technology at the University of Houston.
 ## Usage
 The QuickSand framework comes with three main tools:
 
